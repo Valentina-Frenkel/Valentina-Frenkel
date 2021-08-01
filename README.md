@@ -1,6 +1,6 @@
-### About me
-
 <img width="30%" align="right" alt="Github" src="avatar_vbfrenke.png" />
+
+### About me
 
 Hi! I'm Valentina, a Biotechnology Engineer/Data Scientist/Entrepreneur from the end of the world (Chile). Also, I enjoy traditional and digital drawing.
 
