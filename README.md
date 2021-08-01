@@ -6,6 +6,6 @@ Hi! I'm Valentina, a Biotechnology Engineer/Data Scientist/Entrepreneur from the
 
 [![Github](https://img.shields.io/badge/-Github-9c2d4e?style=flat&logo=Github&logoColor=white)](https://github.com/vbfrenkel)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-9c2d4e?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-frenkel/)
-[![ArtStation](https://img.shields.io/badge/-Artstation-9c2d4e?style=flat&logo=Artstation&logoColor=white)](https://valen-art.artstation.com/)
+[![ArtStation](https://img.shields.io/badge/-ArtStation-9c2d4e?style=flat&logo=Artstation&logoColor=white)](https://valen-art.artstation.com/)
 
 
